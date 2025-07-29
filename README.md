@@ -1,48 +1,53 @@
-![Hey there, I'm Cyris. I'm a software developer, a maker and infosec enthusiast. Check out my work](https://github.com/CyrisXD/CyrisXD/raw/master/header.gif)
+# Felipe Rivetti
 
-[![Twitter Followers](https://img.shields.io/twitter/follow/sudo_overflow?color=0E7FC0&logo=twitter&style=for-the-badge&label=Twitter)](https://twitter.com/sudo_overflow) &nbsp; [![GitHub followers](https://img.shields.io/github/followers/CyrisXD?logo=GitHub&style=for-the-badge)](https://github.com/CyrisXD) &nbsp; [![GitHub Stars](https://img.shields.io/github/stars/CyrisXD?logo=github&style=for-the-badge)](https://github.com/CyrisXD) &nbsp; [![GitHub Sponsors](https://img.shields.io/github/sponsors/CyrisXD?color=BF4B8A&logo=githubsponsors&style=for-the-badge&label=Sponsor%20on%20Github)](https://github.com/sponsors/CyrisXD)
+<p align="left">
+  <a href="https://www.linkedin.com/in/felipe-rivetti/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:fporto@sarrat.com.br" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
-# 👋 &nbsp;Hi there
+---
 
-I'm a software developer based in New Zealand. I enjoy coding open-source projects that solve unique problems. I love combining my hobbies like 3D printing, coding and building various projects with RaspberryPi's or Arduino. Slightly obsessed with Home Automation and Home Labs. You can find me on Twitter [@Sudo_Overflow](https://twitter.com/sudo_overflow). Feel free to tweet me any time. You can also check out my website [Cyris.io](https://Cyris.io) for my blog and more.
+### 👋 Sobre Mim
 
-&nbsp;
+Estudante de Ciência da Computação com grande interesse nas áreas de **Dados** e **Desenvolvimento Web**. Meu objetivo é me tornar um desenvolvedor Full-Stack, combinando a extração e análise de dados com a criação de aplicações web eficientes e intuitivas.
 
-## 👇 &nbsp;Current project
+- 🔭 Atualmente explorando projetos de **Web Scraping com Python** e aprofundando meus conhecimentos em **JavaScript**.
+- 🌱 Buscando oportunidades para aplicar minhas habilidades em projetos desafiadores.
 
-I'm currently working on [@Tweetormator](https://twitter.com/tweetormator). A self-hosted solution for tweet scheduling and analytics aimed at home labs. It will be free and open source. Follow the [Twitter](https://twitter.com/tweetormator) feed to keep up with progress.
+---
 
-![Tweetormator](/assets/tweetormator.jpg)
+### 💻 Tecnologias e Ferramentas
 
-&nbsp;
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,pandas,c,cpp,javascript,html,css,git,github,gitlab,streamlit&perline=11" />
+  </a>
+</p>
 
-## ✏️ &nbsp;Blog posts
+---
 
-<!-- BLOG-POST-LIST:START -->
-- [Reverse engineering Reolink cameras for custom scenes and modes with Home Automation](https://cyris.io/blog/reverse-engineer-reolink)
-- [Reverse engineering a private API with MITM Proxy](https://cyris.io/blog/reverse-engineer-api-copy)
-- [Generating dynamic images on the fly for Email Marketing](https://cyris.io/blog/canvas-image-generation)
-- [Use Twitter to find developer friends near you](https://cyris.io/blog/find-developer-friends)
-<!-- BLOG-POST-LIST:END -->
+### 🚀 Projetos em Destaque
 
-&nbsp;
+<p align="center">
+  <a href="https://github.com/felipe-rivetti-dev/[SEU-PROJETO-1]">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=felipe-rivetti-dev&repo=[SEU-PROJETO-1]&theme=dracula&hide_border=true&title_color=50fa7b&icon_color=f8f8f2" />
+  </a>
+  <a href="https://github.com/felipe-rivetti-dev/[SEU-PROJETO-2]">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=felipe-rivetti-dev&repo=[SEU-PROJETO-2]&theme=dracula&hide_border=true&title_color=50fa7b&icon_color=f8f8f2" />
+  </a>
+</p>
 
-## 🧰 &nbsp;My toolbox
+---
 
-<img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/> &nbsp;<img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-plain.svg" alt="NodeJS" width="50" height="50"/> &nbsp;<img  src="https://github.com/CyrisXD/CyrisXD/raw/master/assets/ExpressJS.png" alt="ExpressJS"/> &nbsp; <img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg" alt="ReactJS" width="50" height="50" style="margin:0 auto; display:block;"/> &nbsp;<img  src="https://github.com/CyrisXD/CyrisXD/raw/master/assets/NextJS.png" alt="NextJS"/> &nbsp; <img  src="https://github.com/CyrisXD/CyrisXD/raw/master/assets/TailwindCSS.png" alt="TailwindCSS"/> &nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/firebase/firebase-plain-wordmark.svg" alt="Firebase" width="50" height="50"/> &nbsp;<img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg" alt="VSCode" width="50" height="50"/> &nbsp;<img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="50" height="50"/> &nbsp;<img  src="https://github.com/CyrisXD/CyrisXD/raw/master/assets/Github.png" alt="Github"/> &nbsp;<img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-plain.svg" alt="HTML5" width="50" height="50"/> &nbsp;<img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
+### 📊 Minhas Estatísticas no GitHub
 
-&nbsp;
-
-## 🖥 &nbsp;Past work
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CyrisXD&repo=Pwnagetty&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/CyrisXD/Pwnagetty) &nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CyrisXD&repo=love-lock-card&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/CyrisXD/love-lock-card)
-
-&nbsp;
-
-## 📊 &nbsp;Stats
-
-![Cyris' Github Stats](https://github-readme-stats.vercel.app/api?username=CyrisXD&hide=contribs,prs&show_icons=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CyrisXD&theme=dark&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
-
-<a rel="me" href="https://mastodon.nz/@Sudo_Overflow">Follow me on Mastodon</a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=felipe-rivetti-dev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true&title_color=50fa7b&icon_color=50fa7b" alt="Estatísticas do GitHub"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipe-rivetti-dev&layout=compact&theme=dracula&hide_border=true&title_color=50fa7b" alt="Linguagens Mais Usadas"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=felipe-rivetti-dev&theme=dracula&hide_border=true&fire=50fa7b&ring=ff79c6" alt="Sequência de Contribuições"/>
+</p>

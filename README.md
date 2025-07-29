@@ -1,4 +1,4 @@
-# Felipe Rivetti
+# Olá, eu me chamo Felipe Rivetti!
 
 <p align="left">
   <a href="https://www.linkedin.com/in/felipe-rivetti/" target="_blank">
@@ -13,10 +13,13 @@
 
 ### 👋 Sobre Mim
 
-Estudante de Ciência da Computação com grande interesse nas áreas de **Dados** e **Desenvolvimento Web**. Meu objetivo é me tornar um desenvolvedor Full-Stack, combinando a extração e análise de dados com a criação de aplicações web eficientes e intuitivas.
+Desenvolvedor de Software e estudante de Ciência da Computação na UFRJ, apaixonado por criar soluções tecnológicas que unem o universo dos **Dados** e o **Desenvolvimento Web**.
 
-- 🔭 Atualmente explorando projetos de **Web Scraping com Python** e aprofundando meus conhecimentos em **JavaScript**.
-- 🌱 Buscando oportunidades para aplicar minhas habilidades em projetos desafiadores.
+Meu objetivo é construir aplicações web completas e inteligentes, e para isso venho me especializando nas seguintes áreas:
+
+-   **Backend:** Desenvolvendo APIs robustas e lógica de servidor com **Python** e **Django**.
+-   **Frontend:** Construindo interfaces de usuário dinâmicas e interativas com **React** e **Next.js**.
+-   **Dados:** Aplicando técnicas de **Web Scraping** e análise com **Pandas** para extrair e manipular informações valiosas.
 
 ---
 
@@ -33,10 +36,10 @@ Estudante de Ciência da Computação com grande interesse nas áreas de **Dados
 ### 🚀 Projetos em Destaque
 
 <p align="center">
-  <a href="https://github.com/felipe-rivetti-dev/[SEU-PROJETO-1]">
+  <a href="https://github.com/feliperivetti/algoritmos-cripto">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=felipe-rivetti-dev&repo=[SEU-PROJETO-1]&theme=dracula&hide_border=true&title_color=50fa7b&icon_color=f8f8f2" />
   </a>
-  <a href="https://github.com/felipe-rivetti-dev/[SEU-PROJETO-2]">
+  <a href="https://github.com/feliperivetti/webnovel-to-epub">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=felipe-rivetti-dev&repo=[SEU-PROJETO-2]&theme=dracula&hide_border=true&title_color=50fa7b&icon_color=f8f8f2" />
   </a>
 </p>
@@ -46,8 +49,8 @@ Estudante de Ciência da Computação com grande interesse nas áreas de **Dados
 ### 📊 Minhas Estatísticas no GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=felipe-rivetti-dev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true&title_color=50fa7b&icon_color=50fa7b" alt="Estatísticas do GitHub"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=feliperivetti-dev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true&title_color=50fa7b&icon_color=50fa7b" alt="Estatísticas do GitHub"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipe-rivetti-dev&layout=compact&theme=dracula&hide_border=true&title_color=50fa7b" alt="Linguagens Mais Usadas"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=felipe-rivetti-dev&theme=dracula&hide_border=true&fire=50fa7b&ring=ff79c6" alt="Sequência de Contribuições"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=feliperivetti-dev&layout=compact&theme=dracula&hide_border=true&title_color=50fa7b" alt="Linguagens Mais Usadas"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=feliperivetti-dev&theme=dracula&hide_border=true&fire=50fa7b&ring=ff79c6" alt="Sequência de Contribuições"/>
 </p>

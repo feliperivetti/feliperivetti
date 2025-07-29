@@ -37,10 +37,10 @@ Meu objetivo é construir aplicações web completas e inteligentes, e para isso
 
 <p align="center">
   <a href="https://github.com/feliperivetti/algoritmos-cripto">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=felipe-rivetti&repo=algoritmos-cripto&theme=dracula&hide_border=true&title_color=50fa7b&icon_color=f8f8f2" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=feliperivetti&repo=algoritmos-cripto&theme=dracula&hide_border=true&title_color=50fa7b&icon_color=f8f8f2" />
   </a>
   <a href="https://github.com/feliperivetti/webnovel-to-epub">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=felipe-rivetti&repo=webnovel-to-epub&theme=dracula&hide_border=true&title_color=50fa7b&icon_color=f8f8f2" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=feliperivetti&repo=webnovel-to-epub&theme=dracula&hide_border=true&title_color=50fa7b&icon_color=f8f8f2" />
   </a>
 </p>
 

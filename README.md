@@ -37,10 +37,10 @@ Meu objetivo é construir aplicações web completas e inteligentes, e para isso
 
 <p align="center">
   <a href="https://github.com/feliperivetti/algoritmos-cripto">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=felipe-rivetti-dev&repo=algoritmos-cripto&theme=dracula&hide_border=true&title_color=50fa7b&icon_color=f8f8f2" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=felipe-rivetti&repo=algoritmos-cripto&theme=dracula&hide_border=true&title_color=50fa7b&icon_color=f8f8f2" />
   </a>
   <a href="https://github.com/feliperivetti/webnovel-to-epub">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=felipe-rivetti-dev&repo=webnovel-to-epub&theme=dracula&hide_border=true&title_color=50fa7b&icon_color=f8f8f2" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=felipe-rivetti&repo=webnovel-to-epub&theme=dracula&hide_border=true&title_color=50fa7b&icon_color=f8f8f2" />
   </a>
 </p>
 
@@ -52,5 +52,5 @@ Meu objetivo é construir aplicações web completas e inteligentes, e para isso
   <img src="https://github-readme-stats.vercel.app/api?username=feliperivetti&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true&title_color=50fa7b&icon_color=50fa7b" alt="Estatísticas do GitHub"/>
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=feliperivetti&layout=compact&theme=dracula&hide_border=true&title_color=50fa7b" alt="Linguagens Mais Usadas"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=feliperivetti-dev&theme=dracula&hide_border=true&fire=50fa7b&ring=ff79c6" alt="Sequência de Contribuições"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=feliperivetti&theme=dracula&hide_border=true&fire=50fa7b&ring=ff79c6" alt="Sequência de Contribuições"/>
 </p>

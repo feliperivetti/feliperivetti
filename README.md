@@ -27,7 +27,7 @@ Meu objetivo é construir aplicações web completas e inteligentes, e para isso
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,pandas,c,cpp,javascript,html,css,git,github,gitlab,streamlit&perline=11" />
+    <img src="https://skillicons.dev/icons?i=python,django,c,cpp,javascript,html,css,git,github,gitlab,&perline=11" />
   </a>
 </p>
 
